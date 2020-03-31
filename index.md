@@ -2,8 +2,6 @@
 
 This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number.
 
-The data is available from 22 Jan, 2020.
-
 For this challege I would like you to design a visualization that plots a time series of the number of cases present. Using your visualization I would like you to predict what the true number of cases should be and compare your prediceted value to the true value. 
 
 ### Isolating An Epidemic (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>):
