@@ -4,7 +4,9 @@ This dataset has daily level information on the number of affected cases, deaths
 
 The data is available from 22 Jan, 2020.
 
-### Isolating An Epidemic (braught to you by 3 Blue 1 Brown)
+### Isolating An Epidemic (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>):
+I thouroughly enjoyed this video as it sheds light on the purpose and effect of social isolation during this time. 
+
 <p align="center"> 
   <iframe src="https://www.youtube.com/embed/gxAaO2rsdIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="frame"></iframe> </p>
 ### Challenge submision
