@@ -2,7 +2,12 @@
 
 This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number.
 
-For this challege I would like you to design a visualization that plots a time series of the number of cases present. Using your visualization I would like you to predict what the true number of cases should be and compare your prediceted value to the true value. 
+There are **two components** to this challenge:
+* First I would like you to create a time series plot showing the number of cases that have presented over the time period in the dataset. You may also plot a time series for the number of deaths. 
+
+* Second I would like you to use your visualization to predict how many cases should have been presented by today's date. You are also welcome and **encouraged** to fit a model to the data to make predictions. 
+
+Following predictions you may analyze your precision by comparing predicted values to true values as of today. 
 
 ### Isolating An Epidemic (brought to you by <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"> 3 Blue 1 Brown</a>):
 I thouroughly enjoyed this video as it sheds light on the purpose and effect of social isolation during this time. 
